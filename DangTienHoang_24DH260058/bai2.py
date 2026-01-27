@@ -1,9 +1,15 @@
+chan = 0
+le = 0
+
 while True:
-    so = int(input("Nhap so nguyen dem so chan"))
-    if so == 0:
-        print("Ket thuc chuong trinh")
+    n = int(input("Nhap so (0 de dung): "))
+
+    if n == 0:
         break
-    if so %2 == 0:
-        print(f"{so}la so chan")
+    elif n % 2 == 0:
+        chan += 1
     else:
-        print(f"{so}la so le")    
+        le += 1
+
+print("So luong so chan:", chan)
+print("So luong so le:", le)
