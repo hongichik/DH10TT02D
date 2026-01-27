@@ -5,7 +5,7 @@ while True:
     n = int(input("Nhập số (nhập 0 để dừng):"))
 
     if n == 0:
-        print("Kết thúc!")
+        print("Kết thúc!d")
         break
 
     if n % 2 == 0:
