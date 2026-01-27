@@ -7,3 +7,4 @@ elif dtb >=5:
     print("hoc luc trung binh")
 else:
     print("hoc luc yeu")
+    
