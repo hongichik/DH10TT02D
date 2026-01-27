@@ -9,6 +9,7 @@ while True:
         break
     if n % 2 == 0:
         demchan += 1
+    else:
         demle += 1
 print("số lượng số chẵn là:", demchan)
 print("số lượng số lẻ là:", demle)
