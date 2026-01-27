@@ -1,5 +1,5 @@
 dtb = float(input("Nhập điểm trung bình: "))
-if dtb >= 8:
+if dtb >= 8.0:
     print("Học lực giỏi")
 elif dtb >= 6.5:
     print("Học lực khá")
