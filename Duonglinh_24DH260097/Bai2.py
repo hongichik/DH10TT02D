@@ -1,6 +1,13 @@
-so = int(input("Nhập một số: "))
+chan = 0
+le = 0
 
-if so % 2 == 0:
-    print(f"{so} là số CHẴN")
-else:
-    print(f"{so} là số LẺ")
+while True:
+    n = int(input ("Nhap so(0 để dừng): "))
+    if n==0:
+        break
+    if n % 2 == 0:
+        chan += 1
+    else:
+        le += 1
+print(f"Số lượng số chẵn: {chan}")
+print(f"Số lượng số lẻ: {le}")
