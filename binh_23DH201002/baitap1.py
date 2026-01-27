@@ -7,3 +7,4 @@ elif a>=5:
         print("trung binh")
 else:
         print("yeu")
+
