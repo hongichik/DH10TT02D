@@ -1,9 +1,10 @@
-n = int(input("Mời nhập số nguyên: "))
-TongUoc = 0
-for i in range(1, n ):
-    if i % 2 == 0:
-        TongUoc += i
-if TongUoc == n:
-    print(f"số {n} là số hoàn hảo")
+N = int(input("Nhập số nguyên N: "))
+tong_uoc = 0
+for i in range(1, N):
+    if N % i == 0:
+        tong_uoc += i
+
+if tong_uoc == N:
+    print(N, "là số hoàn hảo")
 else:
-    print(f"số {n} không phải là số hoàn hảo")
+    print(N, "không phải là số hoàn hảo")
