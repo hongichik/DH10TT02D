@@ -2,4 +2,4 @@ def TamGiacCan(n):
     for i in range(1,n+1):
         print(" "*(n-i)+"*"*(2*i-1))
 
-TamGiacCan(5)
+TamGiacCan(5) 
