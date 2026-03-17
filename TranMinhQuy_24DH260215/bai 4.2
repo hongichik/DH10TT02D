@@ -1,13 +1,8 @@
-thong_tin ={
-    "tên": "Tran Minh Quy",
-    "tuổi": 19,
-    "nghề nghiệp": "Sinh viên"
-}
-print(thong_tin)
-
-thong_tin["email"]= "tranminhquy006@gmail.com"
-thong_tin["tuổi"]=19
-print("Thông tin sau khi thêm email và sửa tuổi:",thong_tin)
-
-del thong_tin["nghề nghiệp"]
-print("Thông tin cá nhân sau khi cập nhật:",thong_tin)
+Thong_tin_ca_nhan={"ten":"Tran Minh Quy","tuoi": "19","nghe_nghiep":"Sinh viên"}
+print(Thong_tin_ca_nhan)
+Thong_tin_ca_nhan["email"] = "tranminhquy006@gmail.com"
+print(Thong_tin_ca_nhan)
+Thong_tin_ca_nhan["tuoi"] = 25
+print(Thong_tin_ca_nhan)
+del Thong_tin_ca_nhan["nghe_nghiep"]
+print(Thong_tin_ca_nhan)
