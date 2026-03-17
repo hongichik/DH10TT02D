@@ -1,11 +1,11 @@
 #dictionary
 #Tao thong tin ca nhan
-thong_tin={"ten":"Nguyễn Đức Trường",
+thong_tin={"ten":"Dinh van vinh",
            "tuoi":22,
            "nghe_nghiep":"sinh viên"
            }
 
-thong_tin["email"]="ductruong6116@gmail.com"
+thong_tin["email"]="dinhvanvinh@gmail.com"
 print("Thêm thông tin email:", thong_tin)
 thong_tin["tuoi"]=25
 print("Sửa tuổi thành 25: ", thong_tin)
