@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="c7aeca84-22dc-440f-8693-03b3e833cdb9" name="Changes" comment="" />
 =======
+>>>>>>> bc904c04926db50b6119cc09d8e4c41c2b316138
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="91d73e0e-7b5b-4065-bc2f-12f563ef5863" name="Changes" comment="" />
+=======
     <list default="true" id="e62638cf-4533-458f-b8c1-fc1c80ce623f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeThuHuyen_Nhom6_24DH260075/bai3.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeThuHuyen_Nhom6_24DH260075/bai3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeThuHuyen_Nhom6_24DH260075/bai3.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeThuHuyen_Nhom6_24DH260075/bai3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeThuHuyen_Nhom6_24DH260075/bai3.2.py" afterDir="false" />
     </list>
 >>>>>>> 48cb7620d54ab980034d188008726079f7b0bc40
+>>>>>>> bc904c04926db50b6119cc09d8e4c41c2b316138
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +36,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;buiminh2k6&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:hongichik/DH10TT02D.git&quot;,
+    &quot;accountId&quot;: &quot;0012f501-0ea0-4e07-8bde-ac2ae5b9ad01&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="38pD8KTJp12t1eXlS8p9XN8JiOW" />
+=======
   <component name="ProjectColorInfo">{
 <<<<<<< HEAD
   &quot;customColor&quot;: &quot;&quot;,
@@ -44,6 +75,7 @@
     <ConfirmationsSetting value="2" id="Add" />
 >>>>>>> 48cb7620d54ab980034d188008726079f7b0bc40
   </component>
+>>>>>>> bc904c04926db50b6119cc09d8e4c41c2b316138
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,22 +84,36 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
 <<<<<<< HEAD
+    "Python.bai3.3.executor": "Run",
+    "Python.baikt1.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+=======
+<<<<<<< HEAD
     "Python.Baitap3.executor": "Run",
     "Python.baikt1.executor": "Run",
 =======
     "Python.Xếp loại học lực.executor": "Run",
     "Python.bai2 (1).executor": "Run",
     "Python.bai2.executor": "Run",
+    "Python.bai3.2.executor": "Run",
+    "Python.bai3.3.executor": "Run",
     "Python.bai3.executor": "Run",
     "Python.baikt1 (1).executor": "Run",
     "Python.baikt1.executor": "Run",
     "Python.baitap1.executor": "Run",
     "Python.demo.executor": "Run",
 >>>>>>> 48cb7620d54ab980034d188008726079f7b0bc40
+>>>>>>> bc904c04926db50b6119cc09d8e4c41c2b316138
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
+<<<<<<< HEAD
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/python/DH10TT02D",
+=======
     "git-widget-placeholder": "main",
 <<<<<<< HEAD
     "settings.editor.selected.configurable": "preferences.lookFeel",
@@ -78,16 +124,23 @@
     <configuration name="Baitap3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
 =======
     "last_opened_file_path": "E:/python/DH10TT02D",
+>>>>>>> bc904c04926db50b6119cc09d8e4c41c2b316138
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+<<<<<<< HEAD
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+=======
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.bai3">
+  <component name="RunManager" selected="Python.bai3.3">
     <configuration name="bai2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
 >>>>>>> 48cb7620d54ab980034d188008726079f7b0bc40
       <module name="DH10TT02D" />
@@ -121,30 +174,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bai2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DH10TT02D" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeThuHuyen_Nhom6_24DH260075" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeThuHuyen_Nhom6_24DH260075/bai2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="bai3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,6 +190,54 @@
       <module name="" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeThuHuyen_Nhom6_24DH260075/bai3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bai3.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14 (PyCharmMiscProject)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeThuHuyen_Nhom6_24DH260075" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeThuHuyen_Nhom6_24DH260075/bai3.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bai3.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14 (PyCharmMiscProject)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeThuHuyen_Nhom6_24DH260075" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeThuHuyen_Nhom6_24DH260075/bai3.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,6 +271,15 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bai3.3" />
+        <item itemvalue="Python.bai3.2" />
+        <item itemvalue="Python.bai3" />
+        <item itemvalue="Python.baikt1 (1)" />
+        <item itemvalue="Python.bai2 (1)" />
+=======
     <configuration name="baikt1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DH10TT02D" />
       <option name="ENV_FILES" value="" />
@@ -238,9 +324,11 @@
         <item itemvalue="Python.baikt1" />
         <item itemvalue="Python.bai2" />
 >>>>>>> 48cb7620d54ab980034d188008726079f7b0bc40
+>>>>>>> 100d8e2a3cb2877eaf20962aec12f6ddf4f0dbbb
       </list>
     </recent_temporary>
   </component>
+>>>>>>> bc904c04926db50b6119cc09d8e4c41c2b316138
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -250,6 +338,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="91d73e0e-7b5b-4065-bc2f-12f563ef5863" name="Changes" comment="" />
+      <created>1769487465525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769487465525</updated>
+      <workItem from="1769487467425" duration="63000" />
+      <workItem from="1769487559558" duration="534000" />
+      <workItem from="1769520349131" duration="311000" />
+      <workItem from="1773105687509" duration="1213000" />
+=======
 <<<<<<< HEAD
       <changelist id="c7aeca84-22dc-440f-8693-03b3e833cdb9" name="Changes" comment="" />
       <created>1769485372083</created>
@@ -271,6 +370,7 @@
       <workItem from="1769527155204" duration="254000" />
       <workItem from="1773105708000" duration="11000" />
 >>>>>>> 48cb7620d54ab980034d188008726079f7b0bc40
+>>>>>>> bc904c04926db50b6119cc09d8e4c41c2b316138
     </task>
     <servers />
   </component>
@@ -278,6 +378,9 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+<<<<<<< HEAD
+    <SUITE FILE_PATH="coverage/DH10TT02D$baikt1.coverage" NAME="baikt1 Coverage Results" MODIFIED="1769487794350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/24DH260108_BuiQuangMinh" />
+=======
 <<<<<<< HEAD
     <SUITE FILE_PATH="coverage/DH10TT02D$baikt1.coverage" NAME="baikt1 Coverage Results" MODIFIED="1769486485947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LyManhChien_Nhom6_24DH260192" />
 =======
@@ -289,5 +392,6 @@
     <SUITE FILE_PATH="coverage/DH10TT02D$Xp_loi_hc_lc.coverage" NAME="Xếp loại học lực Coverage Results" MODIFIED="1769480562179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeThuHuyen_Nhom6_24DH260075" />
     <SUITE FILE_PATH="coverage/DH10TT02D$baikt1.coverage" NAME="baikt1 Coverage Results" MODIFIED="1769485951299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeThuHuyen_Nhom6_24DH260075" />
 >>>>>>> 48cb7620d54ab980034d188008726079f7b0bc40
+>>>>>>> bc904c04926db50b6119cc09d8e4c41c2b316138
   </component>
 </project>
