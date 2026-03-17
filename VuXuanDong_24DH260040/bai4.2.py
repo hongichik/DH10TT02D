@@ -1,13 +1,13 @@
-thong_tin ={
+tu_dien ={
     "tên": "Vu Xuan Dong",
     "tuổi": 20,
     "nghề nghiệp": "Sinh viên"
 }
-print(thong_tin)
+print(tu_dien)
 
-thong_tin["email"]= "dongvu2903@gmail.com"
-thong_tin["tuổi"]=25
-print("Thông tin sau khi thêm email và sửa tuổi:",thong_tin)
+tu_dien["email"]= "dongvu2903@gmail.com"
+tu_dien["tuổi"]=25
+print("Thông tin sau khi thêm email và sửa tuổi:",tu_dien)
 
-del thong_tin["nghề nghiệp"]
-print("Thông tin cá nhân sau khi cập nhật:",thong_tin)
+del tu_dien["nghề nghiệp"]
+print("Thông tin cá nhân sau khi cập nhật:",tu_dien)
