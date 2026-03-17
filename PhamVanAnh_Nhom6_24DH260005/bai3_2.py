@@ -1,4 +1,4 @@
-chuoi = "c7349bc2 d65ca 92 65bf bc8343 6e5 e868"
+chuoi = "c734 9bc2 d65ca 92 65bf bc8343 6e5 e868"
 
 def dem_khoang_trang(s):
     return s.count(" ")
