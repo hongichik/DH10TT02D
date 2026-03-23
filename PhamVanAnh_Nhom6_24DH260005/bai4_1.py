@@ -1,7 +1,9 @@
 danh_sach=["chuối","táo","dưa hấu","dâu","nho"]
+print(danh_sach)
 danh_sach.append("cam")
-print (danh_sach)
-danh_sach.insert(2,"mango")
-print (danh_sach)
+print ("thêm 1 trái cây vào cuối danh sách",danh_sach)
+danh_sach.insert(1,"mango")
+print ("thay trái cây thứ 1" \
+"",danh_sach)
 danh_sach.pop()
-print (danh_sach)
+print ("xoá trái cây cuối danh sách",danh_sach)
