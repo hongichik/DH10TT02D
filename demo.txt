@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Hello, 
            Minhhello word
+=======
+ Hello 
+                Huhu
+                Hello world
+>>>>>>> 48f5c03967cfd7ffc07e5db1e51ba84cc9d272ce
