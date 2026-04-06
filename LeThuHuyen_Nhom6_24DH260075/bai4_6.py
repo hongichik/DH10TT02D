@@ -1,0 +1,4 @@
+std= {"An":"0901234567","Binh":"0912345678","Cuong":"0923456789"}
+print(std["Binh"])
+del std["Cuong"]
+print(std)
